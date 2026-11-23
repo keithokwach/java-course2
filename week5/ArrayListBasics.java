@@ -1,3 +1,4 @@
+package week5;
 // This program demonstrates the basics of ArrayLists in Java.
 // ArrayList is a dynamic array that can grow and shrink.
 
